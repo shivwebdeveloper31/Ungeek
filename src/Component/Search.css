@@ -1,0 +1,51 @@
+#login {
+    height: 50px;
+    width: 120px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 25px;
+    margin-inline: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+    .row {
+        display: block;
+        
+    }
+    .col{
+        margin-top: 10px;
+    }
+    .box{
+        width: 200px;
+    }
+}
+
+#sing_up {
+    height: 50px;
+    width: 120px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 25px;
+}
+
+.box {
+    background-color: rgb(182, 178, 172);
+    padding: 6px;
+    width: 400px;
+}
+
+.display{
+    display: flex;
+}
+
+
+#laptop {
+    margin-top: 10px;
+    text-decoration: none;
+    color: rgb(53, 45, 45);
+
+}
+
+#laptop:hover {
+    color: blue;
+}

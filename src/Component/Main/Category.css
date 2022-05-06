@@ -1,0 +1,30 @@
+.Category{
+    width:20%;
+    
+}
+.Fetch{
+    width: 80%;
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        display: block;
+        
+    }
+    
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Category label{
+    font-size: 34px;
+    color: blue;
+    
+}
+.Category select{
+    width: 200px;
+}
