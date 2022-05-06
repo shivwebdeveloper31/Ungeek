@@ -1,5 +1,5 @@
 # Ungeek
-![Screenshot (175)](https://user-images.githubusercontent.com/91280907/167060875-27a06fd0-b898-4854-b5f9-00bcd09eaf4d.png)
+
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/91280907/167060899-687824e2-8e5c-4adf-9718-4e29d6d325ad.png)
 
